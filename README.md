@@ -6,7 +6,7 @@ Quick Terminal is a compact pure Python application built with GTK4, PyGObject, 
 **License:** GPL-2.0-or-later  
 **Installed command:** `terminal`
 
-<img width="976" height="628" alt="Image" src="https://github.com/user-attachments/assets/699dd70e-5a72-454c-aa4b-95dd4b327b49" />
+<img width="776" height="428" alt="Image" src="https://github.com/user-attachments/assets/699dd70e-5a72-454c-aa4b-95dd4b327b49" />
 Theme example, these can be changed during runtime. See more from screenshots folder.
 
 ## Features
