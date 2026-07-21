@@ -71,11 +71,18 @@ tar -xzf ./quick-terminal.tar.gz && cd quick-terminal-2.5.0 && make all
 ```
 
 ### 3. View help or version information
-
+Case 1; Running locally:
 ```bash
 ./bin/terminal --help
 ./bin/terminal --version
 ```
+
+Case 2: Terminal installed, and open
+```bash
+/bin/terminal --help
+/bin/terminal --version
+```
+
 
 ## Themes
 
