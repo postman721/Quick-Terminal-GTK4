@@ -77,7 +77,7 @@ Case 1; Running locally:
 ./bin/terminal --version
 ```
 
-Case 2: Terminal installed, and open
+Case 2: Terminal installed and open
 ```bash
 /bin/terminal --help
 /bin/terminal --version
